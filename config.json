@@ -1,0 +1,15 @@
+{
+    "baseURL": "https://braininahat.github.io/",
+    "footnoteReturnLinkContents": "↩",
+    "params": {
+       "AuthorName": "Varun Shijo",
+       "GitHubUser": "braininahat",
+       "SidebarRecentLimit": 5,
+       "Subtitle": "braininahat's blog!"
+    },
+    "permalinks": {
+       "posts": "/:year/:month/:title/"
+    },
+    "title": "braininablog"
+ }
+ 
