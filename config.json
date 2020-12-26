@@ -1,5 +1,6 @@
 {
     "baseURL": "https://braininahat.github.io/",
+    "theme": "ananke",
     "footnoteReturnLinkContents": "↩",
     "params": {
        "AuthorName": "Varun Shijo",
